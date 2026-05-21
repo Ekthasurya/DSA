@@ -45,7 +45,8 @@ match day:
 
 
 #Key Considerations for Switch Case Statements:------>
-#1. Constant Expression: A switch expression must evaluate to a constant value. This can include constants or arithmetic operations.
+#1. Constant Expression: A switch expression must evaluate to 
+# a constant value. This can include constants or arithmetic operations.
 
 r = 10
 s = 5
